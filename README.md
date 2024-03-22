@@ -48,7 +48,7 @@ Excel, Python Pandas, Python Matplotlib, seaborn Problem solving, Critical think
 
 ## Screenshots
 
-![Dasdboard Screenshot](https://github.com/Jobbson/Business-Analysis-pandasss/assets/69438695/e4fe48c1-001b-462d-b4b6-fb1fa78fde1c)
+![Dashboard Screenshot](https://github.com/Jobbson/Business-Analysis-pandasss/assets/69438695/e4fe48c1-001b-462d-b4b6-fb1fa78fde1c)
 
 
 
